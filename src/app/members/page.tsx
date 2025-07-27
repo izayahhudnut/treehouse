@@ -50,7 +50,7 @@ const exclusiveMenuItems: MenuItem[] = [
   {
     id: 'e5',
     name: 'Molecular Gastronomy Surprise',
-    description: 'Our chef\'s experimental creations using molecular gastronomy techniques. A seven-course journey through unexpected textures and flavor combinations.',
+    description: 'Our chef&apos;s experimental creations using molecular gastronomy techniques. A seven-course journey through unexpected textures and flavor combinations.',
     image: 'https://images.unsplash.com/photo-1551218808-94e220e084d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=2940&q=80',
     category: 'exclusive'
   },

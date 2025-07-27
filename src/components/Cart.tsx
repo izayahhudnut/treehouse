@@ -44,7 +44,7 @@ export function Cart({ isOpen, onClose }: CartProps) {
       } else {
         throw new Error('Failed to submit order');
       }
-    } catch (error) {
+    } catch {
       alert('There was an error processing your order. Please try again.');
     } finally {
       setIsSubmitting(false);
@@ -66,7 +66,7 @@ export function Cart({ isOpen, onClose }: CartProps) {
             </motion.div>
             <h2 className="font-serif text-2xl text-primary mb-2">Order Confirmed!</h2>
             <p className="text-muted-foreground">
-              We're getting on it! Your order has been received and we'll have it ready shortly.
+              We&apos;re getting on it! Your order has been received and we&apos;ll have it ready shortly.
             </p>
           </div>
         </DialogContent>

@@ -61,11 +61,11 @@ export default function About() {
             <div className="prose prose-lg max-w-none">
               <p className="text-lg leading-relaxed text-muted-foreground mb-6">
                 <span className="font-serif text-7xl float-left leading-none mr-3 mt-1 text-primary">F</span>
-                orest Park is America's best urban park. At 1,326 acres—500 acres larger than Central Park—it draws over 15 million visitors annually and has been recognized by USA Today as the country's premier city park for two consecutive years. What you're experiencing here is the beginning of something that matches that caliber.
+                orest Park is America&apos;s best urban park. At 1,326 acres—500 acres larger than Central Park—it draws over 15 million visitors annually and has been recognized by USA Today as the country&apos;s premier city park for two consecutive years. What you&apos;re experiencing here is the beginning of something that matches that caliber.
               </p>
               
               <p className="text-lg leading-relaxed text-muted-foreground mb-8">
-                The vision is big—I want to create St. Louis's most celebrated dining destination, something that shows the world what this city is capable of. Right now it's just a patio and a lot of ambition, but that's how every great restaurant starts. I'm building something that celebrates the stories of this place, where incredible conversations happen naturally, and where the kind of serendipitous moments that define great cities come to life.
+                The vision is big—I want to create St. Louis&apos;s most celebrated dining destination, something that shows the world what this city is capable of. Right now it&apos;s just a patio and a lot of ambition, but that&apos;s how every great restaurant starts. I&apos;m building something that celebrates the stories of this place, where incredible conversations happen naturally, and where the kind of serendipitous moments that define great cities come to life.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ export default function About() {
           className="text-center mb-20"
         >
           <blockquote className="font-serif text-3xl md:text-4xl italic text-primary leading-relaxed max-w-4xl mx-auto">
-            "Every extraordinary destination begins with a dream. Our patio prototype is the first step toward creating St. Louis's most celebrated dining experience."
+            &ldquo;Every extraordinary destination begins with a dream. Our patio prototype is the first step toward creating St. Louis&apos;s most celebrated dining experience.&rdquo;
           </blockquote>
           <cite className="text-muted-foreground mt-4 block text-lg">— The Vision</cite>
         </motion.div>
@@ -119,15 +119,15 @@ export default function About() {
               
               <p className="text-lg leading-relaxed text-muted-foreground mb-6">
                 <span className="font-serif text-7xl float-left leading-none mr-3 mt-1 text-primary">F</span>
-                orest Park stands as America's premier urban oasis, home to the renowned Saint Louis Zoo, Art Museum, Science Center, and The Muny—all offering free admission. With over 30 miles of trails, pristine golf courses, and 190 acres of nature reserves, it's a testament to what makes St. Louis extraordinary.
+                orest Park stands as America&apos;s premier urban oasis, home to the renowned Saint Louis Zoo, Art Museum, Science Center, and The Muny—all offering free admission. With over 30 miles of trails, pristine golf courses, and 190 acres of nature reserves, it&apos;s a testament to what makes St. Louis extraordinary.
               </p>
               
               <p className="text-lg leading-relaxed text-muted-foreground mb-6">
-                The Treehouse channels this grandeur through design that speaks to both strength and elegance. Our masculine exterior reflects the park's enduring presence, while our feminine interior creates an intimate sanctuary where St. Louis's finest gather to share stories, forge connections, and celebrate the serendipitous moments that define a life well-lived.
+                The Treehouse channels this grandeur through design that speaks to both strength and elegance. Our masculine exterior reflects the park&apos;s enduring presence, while our feminine interior creates an intimate sanctuary where St. Louis&apos;s finest gather to share stories, forge connections, and celebrate the serendipitous moments that define a life well-lived.
               </p>
               
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Every element—from our locally-sourced ingredients to our thoughtfully crafted spaces—tells the story of St. Louis's renaissance. We believe that by creating extraordinary experiences in extraordinary places, we contribute to the city's bright future.
+                Every element—from our locally-sourced ingredients to our thoughtfully crafted spaces—tells the story of St. Louis&apos;s renaissance. We believe that by creating extraordinary experiences in extraordinary places, we contribute to the city&apos;s bright future.
               </p>
             </div>
           </div>
@@ -143,7 +143,7 @@ export default function About() {
           <div>
             <h2 className="font-serif text-3xl md:text-4xl font-light text-primary mb-6">Building the Future</h2>
             <p className="text-lg leading-relaxed text-muted-foreground mb-6">
-              This prototype experience—from the patio where you scan our QR code to the digital menu you're exploring—is our foundation for something much larger. We're proving that exceptional hospitality and innovative dining can thrive in St. Louis. Every interaction, every meal ordered, every moment of connection brings us closer to building the full Treehouse vision: a world-class destination that celebrates this city's extraordinary potential.
+              This prototype experience—from the patio where you scan our QR code to the digital menu you&apos;re exploring—is our foundation for something much larger. We&apos;re proving that exceptional hospitality and innovative dining can thrive in St. Louis. Every interaction, every meal ordered, every moment of connection brings us closer to building the full Treehouse vision: a world-class destination that celebrates this city&apos;s extraordinary potential.
             </p>
             <Link href="/menu">
               <Button size="lg" className="font-sans tracking-wide">
