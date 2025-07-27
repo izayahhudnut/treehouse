@@ -279,7 +279,7 @@ export default function Members() {
                 <p>Book exclusive time slots</p>
               </div>
               <div>
-                <p className="font-medium text-foreground mb-2">Chef\'s Table Access</p>
+                <p className="font-medium text-foreground mb-2">Chef&apos;s Table Access</p>
                 <p>Private dining experiences</p>
               </div>
               <div>
